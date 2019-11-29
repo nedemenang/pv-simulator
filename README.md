@@ -1,6 +1,6 @@
 # PV SIMULATOR CHALLENGE
 
-##This application generates sample photovoltaic power values to mimic a power profile
+## This application generates sample photovoltaic power values to mimic a power profile
 
 The PV simulator project contains the following components that perform the following tasks:
 
@@ -9,7 +9,7 @@ The PV simulator project contains the following components that perform the foll
 * PV simulator: This listens to the meter for meter values, generates a random PV value, adds the value to the meter value and outputs the result.
 * Output.json file: This receives the values generated from the PV simulator.
 
-##How to Run the Project
+## How to Run the Project
 
 * Open the pv-simulator folder in a terminal window and run the following commands in order
     * `virtualenv venv --python=python3.6`
